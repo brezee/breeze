@@ -3,7 +3,7 @@ The Breeze PHP micro-framework
 
 Breeze is a PHP micro-framework to develop websites.
 
-Silex works with PHP 5.4.0 or later.
+Breeze works with PHP 5.4.0 or later.
 
 ## Installation
 
